@@ -68,13 +68,6 @@ I enjoy building clean, performant applications and extracting insights from dat
 ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat&logo=drupal&logoColor=white)
 
 ---
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souladah&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souladah&layout=compact&theme=tokyonight)
-
-
 ---
 
 📫 **Contact**
