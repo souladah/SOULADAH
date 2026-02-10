@@ -4,8 +4,7 @@
 🚀 Building scalable web apps & data-driven solutions  
 📍 Morocco 🇲🇦  
 ## 👨‍💻 About Me
-I'm a **Full-Stack Developer & Data Analyst** with experience in modern web technologies, databases, and data visualization.  
-I enjoy building clean, performant applications and extracting insights from data to support decision-making.
+I am a Full-Stack Developer & DevOps Engineer with experience in modern web technologies, databases, cloud platforms, CI/CD pipelines, and containerization, focused on building scalable, secure, and high-performance applications.
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dahmani-soulaimane-bb707b378/)
