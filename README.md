@@ -1,6 +1,6 @@
 # Hi 👋 I'm Dahmani
 
-💻 **Full-Stack Developer** | 📊 **Data Analyst**  
+💻 **Full-Stack Developer**  
 🚀 Building scalable web apps & data-driven solutions  
 📍 Morocco 🇲🇦  
 ## 👨‍💻 About Me
