@@ -1,7 +1,7 @@
 # Hi 👋 I'm Dahmani
 
 💻 **Full-Stack Developer**  
-🚀 Building scalable web apps & data-driven solutions  
+🚀 Building scalable web apps 
 📍 Morocco 🇲🇦  
 ## 👨‍💻 About Me
 I am a Full-Stack Developer & DevOps Engineer with experience in modern web technologies, databases, cloud platforms, CI/CD pipelines, and containerization, focused on building scalable, secure, and high-performance applications.
