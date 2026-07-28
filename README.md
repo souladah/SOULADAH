@@ -5,10 +5,7 @@
 📍 Morocco 🇲🇦  
 ## 👨‍💻 About Me
 I am a Full-Stack Developer & DevOps Engineer with experience in modern web technologies, databases, cloud platforms, CI/CD pipelines, and containerization, focused on building scalable, secure, and high-performance applications.
-## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dahmani-soulaimane-bb707b378/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:souladah@gmail.com)
 
 ## 🛠️ Tech Stack
 
